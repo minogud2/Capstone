@@ -1,0 +1,10 @@
+﻿region,algorithm,sigma,relative_dif_sigma,counts
+Addis Ababa,CMA-ES - 2,0.088152,-0.1,30
+Amhara,CMA-ES - 2,0.47739,-0.1,29
+Benishangul Gumz,CMA-ES - 2,0.337859,-0.6,30
+Dire Dawa,CMA-ES - 2,0.056089,-0.4,15
+Harari,CMA-ES - 2,0.036899,0,30
+Oromia,CMA-ES - 2,1.444516,-0.1,30
+SNNP,CMA-ES - 2,0.093993,-0.9,1
+Somali,CMA-ES - 2,0.180498,-0.9,1
+Tigray,CMA-ES - 2,0.575634,0,30

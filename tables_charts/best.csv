@@ -1,0 +1,46 @@
+ADM1_EN,lat,lon,admin_code,ADM2_EN,ADM3_EN,grade9_10,gr_offer,new_school
+Addis Ababa,8.91452486,38.81455918,AddisAbaba1,Region 14,Akaki - Kalit,387,G. 9-10,1
+Addis Ababa,9.07795343,38.77230266,AddisAbaba2,Region 14,Gulele,104,G. 9-10,1
+Addis Ababa,9.06187093,38.8481872,AddisAbaba3,Region 14,Yeka,1773,G. 9-10,1
+Addis Ababa,8.95904191,38.86394102,AddisAbaba4,Region 14,Bole,276,G. 9-10,1
+Addis Ababa,8.97078626,38.69189302,AddisAbaba5,Region 14,Kolfe - Keran,919,G. 9-10,1
+Amhara,10.4775771,37.00617645,Amhara1,West Gojam,Bure (Amhara),1410,G. 9-10,1
+Amhara,11.41301369,37.13750022,Amhara2,West Gojam,Mecha,2129,G. 9-10,1
+Amhara,11.213661,39.93253842,Amhara3,South Wello,Kalu,855,G. 9-10,1
+Amhara,11.80068813,38.23452335,Amhara4,South Gondar,Guna Begemider,1592,G. 9-10,1
+Amhara,9.8690684,39.04935463,Amhara5,North Shewa,Moretna Jiru,1146,G. 9-10,1
+Benishangul Gumz,10.383171,34.5916,BenishangulGumz1,Asosa,Homosha,382,G. 9-10,1
+Benishangul Gumz,9.883625,36.08456,BenishangulGumz2,Kemashi,Yaso,359,G. 9-10,1
+Benishangul Gumz,9.653271,35.769733,BenishangulGumz3,Kemashi,Agalometi,403,G. 9-10,1
+Benishangul Gumz,9.98266,34.5106,BenishangulGumz4,Asosa,Assosa,303,G. 9-10,1
+Benishangul Gumz,10.294267,34.77314,BenishangulGumz5,Asosa,Menge,264,G. 9-10,1
+Dire Dawa,9.54383644,41.96609767,DireDawa1,Dire Dawa rural,Wahil,347,G. 9-10,1
+Dire Dawa,9.62090234,41.78584109,DireDawa2,Dire Dawa urban,Malka Jabti (M/jebdu),780,G. 9-10,1
+Dire Dawa,9.51515381,41.90364991,DireDawa3,Dire Dawa rural,Wahil,460,G. 9-10,1
+Dire Dawa,9.77296716,42.33263072,DireDawa4,Siti,Dembel,,G. 9-10,1
+Dire Dawa,9.50318181,41.78014524,DireDawa5,Dire Dawa rural,Wahil,578,G. 9-10,1
+Harari,9.26063404,42.11734863,Harari1,Harari,Hakim,115,G. 9-10,1
+Harari,9.35945292,42.14510798,Harari2,Harari,Shenkor,339,G. 9-10,1
+Harari,9.22246876,42.2379569,Harari3,Harari,Sofi,112,G. 9-10,1
+Harari,9.32827978,42.21931189,Harari4,Harari,Erer (Harari),341,G. 9-10,1
+Harari,9.25703986,42.16979373,Harari5,Harari,Sofi,492,G. 9-10,1
+Oromia,7.7246,39.7344,Oromia1,Arsi,Robe,1192,G. 9-10,1
+Oromia,7.6018977,36.72332,Oromia2,Jimma,Seka Chekorsa,1519,G. 9-10,1
+Oromia,8.134165,39.233566,Oromia3,Arsi,Hitosa,2375,G. 9-10,1
+Oromia,9.5046625,35.505024,Oromia4,West Wellega,Nejo Town,1453,G. 9-10,1
+Oromia,7.919395,36.050606,Oromia5,Jimma,Sigmo,627,G. 9-10,1
+SNNP,6.960196,35.55835,SNNP1,Bench Maji,Mizan Aman Town,1542,G. 9-10,1
+SNNP,6.160331,38.20175,SNNP2,Gedeo,Yirgachefe Town,2127,G. 9-10,1
+SNNP,7.45218,37.627132,SNNP3,Hadiya,Gimbichu Town,1637,G. 9-10,1
+SNNP,5.7848606,36.56391,SNNP4,South Omo,Jinka Town Admin,1047,G. 9-10,1
+SNNP,6.45101,38.624687,SNNP5,Sidama,Chirone,887,G. 9-10,1
+Somali,5.12324,41.9626,Somali1,Afder,Charati,1203,G. 9-10,1
+Somali,7.76157,46.5243,Somali2,Doolo,Bokh,534,G. 9-10,1
+Somali,4.01546,41.8635,Somali3,Liban,Dolo Odo,435,G. 9-10,1
+Somali,5.18112,41.8537,Somali4,Afder,Charati,408,G. 9-10,1
+Somali,6.15921,44.3862,Somali5,Korahe,Debeweyin,428,G. 9-10,1
+Tigray,14.0978453,38.45866367,Tigray1,North Western,Medebay Zana,1111,G. 9-10,1
+Tigray,13.22759199,39.52883973,Tigray2,South Eastern,Hintalo Wajirat,3727,G. 9-10,1
+Tigray,13.31569803,39.98299756,Tigray3,Zone 2 (Kilbet Rasu),Erebti,,G. 9-10,1
+Tigray,14.81143284,37.52292361,Tigray4,,,,G. 9-10,1
+Tigray,12.41629256,39.56834299,Tigray5,Southern,Alamata Town,2330,G. 9-10,1
